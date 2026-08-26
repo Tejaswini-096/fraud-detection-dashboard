@@ -7,6 +7,14 @@ A machine learning project to detect fraudulent credit card transactions using a
 ## 📌 Project Overview
 This project identifies suspicious/fraudulent transactions using an anonymized, highly imbalanced dataset (only 0.17% fraud cases). Three different modeling approaches were built and compared to evaluate their effectiveness.
 
+## 📸 Dashboard Preview
+
+**Alert Dashboard**
+![Alert Dashboard](dashboard_alerts.png)
+
+**Model Comparison**
+![Model Comparison](dashboard_comparison.png)
+
 ## 📊 Dataset
 - **Source:** [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - 284,807 transactions, 492 fraud cases (0.17%)
